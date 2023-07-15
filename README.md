@@ -25,7 +25,7 @@
 <p align="center"> 
 The following data does not show comments on forks, branches or in private repositories
   <img src="https://github-readme-stats.vercel.app/api?username=maximuslotro&show_icons=true&rank_icon=github&theme=highcontrast&include_all_commits=true" alt="maximuslotro" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuslotro&hide=html&layout=donut,css" alt="maximuslotro" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuslotro&layout=donut" alt="maximuslotro" height="200" />
 </p>
 
 <!--
