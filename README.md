@@ -22,11 +22,13 @@
 
 -How to reach me:
 <img src="https://img.icons8.com/color/48/000000/discord.png" alt="java" width="20" height="20" /> `maximustheminer`
-<p align="center"> 
-The following data does not show comments on forks, branches or in private repositories
-  <img src="https://github-readme-stats.vercel.app/api?username=maximuslotro&show_icons=true&rank_icon=github&theme=highcontrast&include_all_commits=true" alt="maximuslotro" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuslotro&layout=donut" alt="maximuslotro" height="200" />
-</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=maximuslotro&show_icons=true&rank_icon=github&theme=highcontrast&include_all_commits=true)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs?username=maximuslotro&layout=donut)&card_width=320" />
+</a>
 
 <!--
 **maximuslotro/maximuslotro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
