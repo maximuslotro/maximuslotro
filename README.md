@@ -24,7 +24,7 @@
 <img src="https://img.icons8.com/color/48/000000/discord.png" alt="java" width="20" height="20" /> `maximustheminer`
 <p align="center"> 
 The following data does not show comments on forks, branches or in private repositories
-  <img src="https://github-readme-stats.vercel.app/api?username=maximuslotro&show_icons=true" alt="maximuslotro" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maximuslotro&show_icons=true&rank_icon=github" alt="maximuslotro" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuslotro&hide=html,css" alt="maximuslotro" height="200" />
 </p>
 
