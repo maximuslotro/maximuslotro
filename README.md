@@ -28,6 +28,9 @@ The following data does not show comments on forks, branches or in private repos
   <img src="https://github-readme-stats.vercel.app/api?username=maximuslotro&show_icons=true&rank_icon=github&theme=highcontrast&include_all_commits=true" alt="maximuslotro" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuslotro&layout=donut" alt="maximuslotro" height="200" />
 </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maximuslotro&layout=compact" alt="maximuslotro" height="200" />
+</p>
 
 <!--
 **maximuslotro/maximuslotro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
