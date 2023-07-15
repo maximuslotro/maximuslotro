@@ -12,7 +12,8 @@
 <p align="center">
   I'm a passionate minecraft modder. I live to take on challenges, feel free to reach out to me if you have a project you think i could work on!
 </p>
--🔭 I’m currently working on a [1.16.5 port] (https://github.com/ForgeEssentials/ForgeEssentials/tree/1.16.5/initial) of [ForgeEssentials] (https://github.com/ForgeEssentials/ForgeEssentials)
+
+-🔭 I’m currently working on a [1.16.5 port](https://github.com/ForgeEssentials/ForgeEssentials/tree/1.16.5/initial) of [ForgeEssentials](https://github.com/ForgeEssentials/ForgeEssentials)
 
 
 - Hardworking Open Source contributor
