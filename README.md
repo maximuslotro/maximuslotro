@@ -29,7 +29,7 @@ The following data does not show comments on forks, branches or in private repos
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuslotro&layout=donut" alt="maximuslotro" height="200" />
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maximuslotro&layout=compact" alt="maximuslotro" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maximuslotro&layout=compact&range=all_time" alt="maximuslotro" height="200" />
 </p>
 
 <!--
