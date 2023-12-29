@@ -13,7 +13,7 @@
   I'm a passionate minecraft modder. I live to take on challenges, feel free to reach out to me if you have a project you think i could work on!
 </p>
 
-- I ported ForgeEssentials to 1.16.5 [1.16.5 port](https://github.com/ForgeEssentials/ForgeEssentials/tree/1.16.5/develop) of [ForgeEssentials](https://github.com/ForgeEssentials/ForgeEssentials)
+- I ported [ForgeEssentials](https://github.com/ForgeEssentials/ForgeEssentials) to [1.16.5 port](https://github.com/ForgeEssentials/ForgeEssentials/tree/1.16.5/develop) 
 - Currently working on a private project that involves the Minecraft Lord of the Rings Renewed Mod
 - Hardworking Open Source contributor
 
