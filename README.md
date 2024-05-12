@@ -14,7 +14,7 @@
 </p>
 
 - I ported [ForgeEssentials](https://github.com/ForgeEssentials/ForgeEssentials) to [1.16.5](https://github.com/ForgeEssentials/ForgeEssentials/tree/1.16.5/develop) 
-- Currently working on a private project that involves the Minecraft Lord of the Rings Renewed Mod
+- Currently working on a Minecraft Lord of the Rings mod called Lotr Renewed Extended
 - Hardworking Open Source contributor
 
 - All of my public projects can be found [here](https://github.com/maximuslotro?tab=repositories)
