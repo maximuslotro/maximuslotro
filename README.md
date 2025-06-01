@@ -21,8 +21,8 @@
   -  I also re-ported it to [1.8.9](https://github.com/ForgeEssentials/ForgeEssentials/tree/1.8.9/initial) from [1.7.10](https://github.com/ForgeEssentials/ForgeEssentials/tree/1.7.10/develop), to bring it into parity with the LTS versions (1.7.10, 1.12.2, 1.16.5)
 - I am currently working on a Minecraft Lord of the Rings mod called Lotr Renewed Extended [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/lotr-renewed-extended) [Modrinth](https://modrinth.com/mod/lotr-renewed-extended)
   - Links associated with Renewed Extended:
-    - Localisation Repo [maximuslotro/Extended-Localisation](https://github.com/maximuslotro/Extended-Localisation)
-    - Static Wiki Repo [maximuslotro/Extended-Wiki](https://github.com/maximuslotro/Extended-Wiki), and the Wiki [Website](https://maximuslotro.github.io/Extended-Wiki/)
+    - Localisation Repo [lotrextendedteam/Extended-Localisation](https://github.com/lotrextendedteam/Extended-Localisation)
+    - Static Wiki Repo [lotrextendedteam/Extended-Wiki](https://github.com/lotrextendedteam/Extended-Wiki), and the Wiki [Website](https://lotrextendedteam.github.io/Extended-Wiki/)
 
 - I love contributing to open source projects.
 
