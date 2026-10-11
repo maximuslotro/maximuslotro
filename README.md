@@ -22,6 +22,7 @@
 - I am currently working on a Minecraft Lord of the Rings mod called Lotr Renewed Extended [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/lotr-renewed-extended) [Modrinth](https://modrinth.com/mod/lotr-renewed-extended)
   - The team organization can be found here [LotrExtendedTeam](https://github.com/LotrExtendedTeam)
   - Links associated with Renewed Extended:
+    - Code Repo [LotrExtendedTeam/LotrRenewedExtended](https://github.com/LotrExtendedTeam/LotrRenewedExtended)
     - Localisation Repo [LotrExtendedTeam/Extended-Localisation](https://github.com/LotrExtendedTeam/Extended-Localisation)
     - Static Wiki Repo [LotrExtendedTeam/Extended-Wiki](https://github.com/LotrExtendedTeam/Extended-Wiki), and the Wiki [Website](https://lotrextendedteam.github.io/Extended-Wiki/)
 
